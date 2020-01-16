@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3777f0f-7af5-44fe-afc7-06f88e7837f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/quesiton215/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question589/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question977/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java" afterDir="false" />
     </list>
@@ -27,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="599">
+              <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,24 +164,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="question589" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="question590" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -331,7 +310,7 @@
       <workItem from="1578538708685" duration="597000" />
       <workItem from="1578539484268" duration="1032000" />
       <workItem from="1578635386268" duration="1667000" />
-      <workItem from="1578880664887" duration="32556000" />
+      <workItem from="1578880664887" duration="33303000" />
     </task>
     <task id="LOCAL-00001" summary="add question136 and question349">
       <created>1572418159903</created>
@@ -382,7 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579084227918</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add questions">
+      <created>1579168090395</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579168090395</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add questions">
+      <created>1579168624150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579168624150</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -418,7 +411,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95201000" />
+    <option name="totallyTimeSpent" value="95948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -1098,7 +1091,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/quesiton215/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question215/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
@@ -1131,8 +1124,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="599">
+          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

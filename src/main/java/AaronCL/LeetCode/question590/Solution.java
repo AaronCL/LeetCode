@@ -40,21 +40,13 @@ public class Solution {
         if (root == null) {
             return integerList;
         }
-
-        if (root != null) {
-            for (Node child : root.children) {
-                postorder(child);
-            }
-            integerList.add(root.val);
-        }
-       /* List<Node> children = root.children;
+        List<Node> children = root.children;
         Iterator<Node> iterator = children.iterator();
         while (iterator.hasNext()) {
             Node node=iterator.next();
-            integerList.add(node.val);
             postorder(node);
         }
-        integerList.add(root.val);*/
+        integerList.add(root.val);
         return integerList;
     }
 }
