@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3777f0f-7af5-44fe-afc7-06f88e7837f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question112/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question704/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question894/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/quesiton215/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question589/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question977/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,13 +25,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question112/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="87" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="28" selection-end-column="87" />
+            <state relative-caret-position="523">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question589/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,7 +97,6 @@
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question237/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question1266/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question938/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question617/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question226/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question344/Solution.java" />
@@ -98,6 +109,10 @@
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question704/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question894/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question112/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/quesiton215/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question977/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question589/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java" />
       </list>
     </option>
   </component>
@@ -160,7 +175,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="question112" type="462c0819:PsiDirectoryNode" />
+              <item name="question589" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="question590" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +331,7 @@
       <workItem from="1578538708685" duration="597000" />
       <workItem from="1578539484268" duration="1032000" />
       <workItem from="1578635386268" duration="1667000" />
-      <workItem from="1578880664887" duration="28301000" />
+      <workItem from="1578880664887" duration="32556000" />
     </task>
     <task id="LOCAL-00001" summary="add question136 and question349">
       <created>1572418159903</created>
@@ -351,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578988471769</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add questions">
+      <created>1579084227918</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579084227918</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -387,7 +418,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90946000" />
+    <option name="totallyTimeSpent" value="95201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -935,13 +966,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question171/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
@@ -1054,11 +1078,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question112/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="87" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="28" selection-end-column="87" />
+        <state relative-caret-position="380">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="29" />
           <folding>
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK1.8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/quesiton215/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question977/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK1.8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="151" column="13" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question589/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AaronCL/LeetCode/question590/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

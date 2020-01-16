@@ -1,5 +1,7 @@
 package AaronCL.LeetCode.question590;
 
+import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -7,7 +9,11 @@ import java.util.List;
  * @Author chenli23
  * @Date 2020/1/10 16:16:16
  * @Version V1.0
- * @Description: TODO
+ * @Description:
+ *
+ * 给定一个 N 叉树，返回其节点值的后序遍历。
+ *
+ * https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
  **/
 public class Solution {
 
@@ -15,7 +21,8 @@ public class Solution {
         public int val;
         public List<Node> children;
 
-        public Node() {}
+        public Node() {
+        }
 
         public Node(int _val) {
             val = _val;
@@ -25,5 +32,29 @@ public class Solution {
             val = _val;
             children = _children;
         }
-    };
+    }
+
+    List<Integer> integerList = new LinkedList<Integer>();
+
+    public List<Integer> postorder(Node root) {
+        if (root == null) {
+            return integerList;
+        }
+
+        if (root != null) {
+            for (Node child : root.children) {
+                postorder(child);
+            }
+            integerList.add(root.val);
+        }
+       /* List<Node> children = root.children;
+        Iterator<Node> iterator = children.iterator();
+        while (iterator.hasNext()) {
+            Node node=iterator.next();
+            integerList.add(node.val);
+            postorder(node);
+        }
+        integerList.add(root.val);*/
+        return integerList;
+    }
 }
