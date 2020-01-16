@@ -1,4 +1,4 @@
-package AaronCL.LeetCode.quesiton215;
+package AaronCL.LeetCode.question215;
 
 import java.util.Arrays;
 
